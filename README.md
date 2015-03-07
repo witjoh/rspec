@@ -3,24 +3,10 @@
 
 [![Build Status](https://travis-ci.org/witjoh/puppet-module-rspec.png?branch=master)](https://travis-ci.org/witjoh/puppet-module-rspec)
 
-Brief description here.
-
-===
+Some simple rspec examples, mainly to learn how to write rspec tests for some specific puppet DSL constructs.
 
 # Compatibility
 ---------------
-This module is built for use with Puppet v3 with Ruby versions 1.8.7, 1.9.3, 2.0.0 and 2.1.0 on the following OS families.
+See the bundle file.  My puppet module skeleten is basesd this one :
+https://github.com/ghoneycutt/puppet-module-skeleton.git
 
-* EL 6
-* Some other OS
-
-===
-
-# Parameters
-------------
-
-example_param
--------------
-Boolean to do something awesome.
-
-- *Default*: true

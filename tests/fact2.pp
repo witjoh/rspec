@@ -1,0 +1,1 @@
+include rspec::fact2
