@@ -1,0 +1,10 @@
+name 'witjoh-rspec'
+version '0.1.0'
+source 'git://github.com/witjoh/puppet-module-rspec.git'
+author 'witjoh'
+license 'Apache 2.0'
+summary 'put a summary here'
+description 'put a description here'
+project_page 'https://github.com/witjoh/puppet-module-rspec'
+
+dependency 'puppetlabs/stdlib', '>= 4.2.0'
