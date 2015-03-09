@@ -16,7 +16,7 @@ describe 'rspec::demo' do
 
   context "Array fact" do
     let(:facts) do
-      { :os => { :family => 'RedHat' } }
+      { :os => { 'family' => 'RedHat' } }
     end
 
     it do

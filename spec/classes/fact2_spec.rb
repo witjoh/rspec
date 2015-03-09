@@ -3,7 +3,7 @@ require 'spec_helper'
 describe 'rspec::fact2' do
 
   let(:facts) do
-    { :os => { :family => 'RedHat' } }
+    { :os => { 'family' => 'RedHat' } }
   end
 
   it do
